@@ -6,9 +6,9 @@ Created on: Oct 25 2022
 Bikeshare project is a python program in which takes the user input then filter the data based on that input
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
 
