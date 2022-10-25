@@ -1,14 +1,28 @@
 ### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
+Created on: Oct 25 2022
+### Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare project is a python program in which takes the user input then filter the data based on that input
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+For finding the day name.
+https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day_name.html#pandas.Series.dt.day_name
+
+For finding the month name.
+https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month_name.html
+
+For understanding mode
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html
+
+The idea for the raw data loop
+https://stackoverflow.com/questions/58244444/loop-with-df-head
+
+And for getting the next 5 rows of raw data
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
