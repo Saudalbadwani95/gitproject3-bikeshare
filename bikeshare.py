@@ -148,7 +148,7 @@ def trip_duration_stats(df):
     total_travel_time_sec = sum(df['Trip Duration']) # taking the sum of Trip Duration column
     as_hours = (total_travel_time_sec/3600).__round__(0) # changing from second to hours
     as_day = (as_hours/24).__round__(0) # changing from hours to days
-    print('Total travel time: ',as_hours , ' Hours or ', as_day, 'days') # Display the total travel time
+    print('Total travel time: {} Hours or {} days'.format(as_hours, as_day)) # Display the total travel time
 
     # TO DO: display mean travel time
 
