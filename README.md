@@ -12,17 +12,17 @@ Bikeshare project is a python program in which takes the user input then filter 
 
 ### Credits
 
-For finding the day name.
-https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day_name.html#pandas.Series.dt.day_name
+- For finding the day name.
+[link](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day_name.html#pandas.Series.dt.day_name)
 
-For finding the month name.
-https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month_name.html
+- For finding the month name.
+[link](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month_name.html)
 
-For understanding mode
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html
+- For understanding mode.
+[link](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html)
 
-The idea for the raw data loop
-https://stackoverflow.com/questions/58244444/loop-with-df-head
+- The idea for the raw data loop.
+[link](https://stackoverflow.com/questions/58244444/loop-with-df-head)
 
-And for getting the next 5 rows of raw data
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
+- And for getting the next 5 rows of raw data.
+[link](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html)
