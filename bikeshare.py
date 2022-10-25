@@ -154,7 +154,7 @@ def trip_duration_stats(df):
 
     avarge_travel_time_seco = (df['Trip Duration']).mean() # taking the mean of Trip Duration column
     ave_time_hr = (avarge_travel_time_seco/3600).__round__(1) # changing from second to hours
-    print('Average travel time: ', ave_time_hr ,'Hours') # Display the mean travel time
+    print('Average travel time: {} Hours'.format(ave_time_hr)) # Display the mean travel time
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
